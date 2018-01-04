@@ -1,5 +1,4 @@
-## Machine learning
-## Default in telecom bills using python
+## Machine learning -- Default in telecom bills using python
 ### What the task and results are
 We want to study the question whether a client will default or not next month, and figure out the most important variables among those 17 features.
 There are 3 main parts in this project, including data preparation, data visualization in Python with Pandas, Matplotlib,
